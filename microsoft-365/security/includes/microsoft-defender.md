@@ -1,8 +1,8 @@
 ---
-manager: dansimp
-ms.author: dansimp
-author: dansimp
-ms.service: microsoft-365-security
+managers: lisa shaddinger & timmy tannehill
+ms.author: lisa shaddinger 
+author: lisa shaddinger
+ms.service: microsoft-365-security-
 ms.subservice: m365d
 ms.topic: include
 ms.custom: admindeeplinkDEFENDER
